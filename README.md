@@ -5,3 +5,8 @@ The project code for the webpages will not be able to be ran as we used data fro
 in which I no longer have access to. However, with the other code I hope you will be able to gain a viewpoint in my capabilities. 
 
 These projects taught different styles of coding. We used a mixture of java as well as java script, python, and C.
+
+I would select the following projects for a sample: 
+MineSweeperStarter
+HillClimbing
+TicTacStarter
