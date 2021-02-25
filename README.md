@@ -1,11 +1,7 @@
-Attached files are sample code from a software development class. In this class I gained experience building class diagrams, 
-using these diagrams to form classes in java, and also creating interactive webpages built from jsp.
+Attached files are sample code from a few software development classes. I gained experience building class diagrams, 
+to form classes in java, and also creating interactive webpages built from jsp. Other projects for class or for fun include solving a minesweeper board or playing tic-tac-toe against an AI that will never lose.
 
-This project code will not be able to be ran as we used data from an SQL Database 
-in which I no longer have access to. However I hope you will be able to gain a viewpoint in my capabilities. 
+The project code for the webpages will not be able to be ran as we used data from an SQL Database 
+in which I no longer have access to. However, with the other code I hope you will be able to gain a viewpoint in my capabilities. 
 
-The project gave different styles of accesss to users and admins, 
-depending  on their login credentials. Some data was shared such as viewing a university,
-but other things were different such as editing a university for admins, and adding a university
-to a saved school list for regular users. We used a mixture of java code as well as jsp code to
-limit what was available for the person logging in. 
+These projects taught different styles of coding. We used a mixture of java as well as java script, python, and C.
